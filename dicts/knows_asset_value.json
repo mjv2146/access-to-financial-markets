@@ -1,0 +1,16 @@
+{
+    "house"             : "ah04a_1",
+    "otherhouse"        : "ah04b_1",
+    "bicycles"          : "ah04c_1",
+    "vehicle"           : "ah04d_1",
+    "electronics"       : "ah04e_1",
+    "washmachinestove"  : "ah04f_1",
+    "domesticappliance" : "ah04g_1",
+    "financialassets"   : "ah04h_1",
+    "machinary"         : "ah04i_1",
+    "bullcow"           : "ah04j_1",
+    "horsesmules"       : "ah04k_1",
+    "pigsgoats"         : "ah04l_1",
+    "poultry"           : "ah04m_1",
+    "otherassets"       : "ah04n_1"
+}

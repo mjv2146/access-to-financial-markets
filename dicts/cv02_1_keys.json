@@ -1,0 +1,10 @@
+{
+    "1.0":"property_currently_paying",
+    "2.0":"property_own_outright",
+    "3.0":"property_community_ejido",
+    "4.0":"property_borrowed_rented_no_payment",
+    "5.0":"property_rented",
+    "6.0":"property_other",
+    "7.0":"property_taken",
+    "-1.0":"property_nan"
+}
