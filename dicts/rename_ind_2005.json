@@ -32,7 +32,7 @@
 "tb38s2_1"    : "earn_second_business",
 "tb38s2_2"    : "income_second_business",
 "cr10"        : "asked_for_loan_12mth",
-"cr14_1"      : "loan_location",
+"cr14_1"      : "loan_type",
 "cr16"        : "received_loan",
 "cr19"        : "loan_size",
 "cr26_1"      : "has_debts",
