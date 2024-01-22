@@ -1,4 +1,4 @@
-# Mexican Family Life Survey 
+# Access to Financial Markets
 ### Task
 This project studies a key question in emerging economies: how do households differ in their access to financial markets?
 I study this using household data from Mexico.
