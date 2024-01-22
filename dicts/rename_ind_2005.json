@@ -6,7 +6,7 @@
 "edad"        : "age",
 "ed05"        : "attended_school",
 "ed06"        : "education",
-"thi01"       : "gender",
+"thi01"       : "sex",
 "tb36a_1"     : "income_type",
 "tb36a_2"     : "income_undetailed",
 "tb36b_1"     : "has_income_second_job",
