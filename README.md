@@ -3,20 +3,25 @@
 This project studies a key question in emerging economies: how do households differ in their access to financial markets?
 I study this using household data from Mexico.
 
-My findings:
-1. Households with high levels of education are more likely to have access to financial markets.
-2. Households with higher levels of income are more likely to have access to financial markets.
-
-
 ### Data
 Household data from [Mexican Family Life Survey](http://www.ennvih-mxfls.org/english/)
 
+### Notebooks
+- EDA
+  - Perform exploratory data analysis of demographic variables.
+- Financial
+  - Explore the relationship between demographic variables and access to financial markets.
+
+### Findings
+- Access to financial markets increases with income, and varies significantly with industry and location.
+- Younger households have higher education levels than older households.
+
 ### Data Wrangling
-1. Imputed missing income values using regression
-2. Merged individual level and household level datasets
-3. Removed income outliers
+- Imputed missing income values using regression
+- Merged individual level and household level datasets
+- Removed income outliers
 
 ### Tools
-1. Pandas - data wrangling
-2. Matplotlib/seaborn - visualization
-3. Statsmodels - logistic regression
+- Pandas - data wrangling
+- Matplotlib/seaborn - visualization
+- Statsmodels - logistic regression
