@@ -18,7 +18,7 @@ Household data from [Mexican Family Life Survey](http://www.ennvih-mxfls.org/eng
 - Younger households have higher education levels than older households.
 
 ### Data Wrangling
-- Imputed missing income values using regression.
+- Imputed missing income values using multivariate regression.
 - Merged individual level and household level datasets.
 - Removed income outliers.
 
