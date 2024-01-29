@@ -19,6 +19,8 @@ Household data from [Mexican Family Life Survey](http://www.ennvih-mxfls.org/eng
 
 ### [Tableau Dashboard](https://public.tableau.com/app/profile/mitchell.vaughn4481/viz/AccesstoFinancialMarkets_17064813522530/AccesstoFinancialMarketsinMexico)
 
+![image](fig/tableau_screenshot.png)
+
 ### Data Wrangling
 - Imputed missing income values using multivariate regression.
 - Merged individual level and household level datasets.
