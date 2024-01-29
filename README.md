@@ -6,6 +6,10 @@ I study this using household data from Mexico.
 ### Data
 Household data from [Mexican Family Life Survey](http://www.ennvih-mxfls.org/english/)
 
+### Findings
+- Access to financial markets increases with income and education, and varies significantly with industry and location.
+- Younger households have higher education levels than older households.
+
 ### Notebooks
 - 01_clean_household: clean household level data, study possession of illiquid assets
 - 01_clean_individual: clean individual level data, form income measure 
@@ -13,9 +17,7 @@ Household data from [Mexican Family Life Survey](http://www.ennvih-mxfls.org/eng
 - 03_EDA: exploratory data analysis 
 - 03_financial: study the determinants of access to financial markets
 
-### Findings
-- Access to financial markets increases with income and education, and varies significantly with industry and location.
-- Younger households have higher education levels than older households.
+### [Tableau Dashboard](https://public.tableau.com/app/profile/mitchell.vaughn4481/viz/AccesstoFinancialMarkets_17064813522530/AccesstoFinancialMarketsinMexico)
 
 ### Data Wrangling
 - Imputed missing income values using multivariate regression.
@@ -26,3 +28,4 @@ Household data from [Mexican Family Life Survey](http://www.ennvih-mxfls.org/eng
 - Pandas - data wrangling
 - Matplotlib/seaborn - visualization
 - Statsmodels - logistic regression
+- Tableau - visualization
