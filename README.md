@@ -9,13 +9,19 @@ Household data from [Mexican Family Life Survey](http://www.ennvih-mxfls.org/eng
 ### Findings
 - Access to financial markets increases with income and education, and varies significantly with industry and location.
 - Younger households have higher education levels than older households.
+- Access to financial markets varies significantly with location, even when controlling for education and income.
 
 ### Notebooks
-- 01_clean_household: clean household level data, study possession of illiquid assets
-- 01_clean_individual: clean individual level data, form income measure 
-- 02_merge_household_individual: combine household level data and individual level data
-- 03_EDA: exploratory data analysis 
-- 03_financial: study the determinants of access to financial markets
+
+| Notebook                                                                 | Description                                           |
+| ------------------------------------------------------------------------ | ----------------------------------------------------- |
+| [Clean Household Data](./notebooks/2005/01_clean_household_2005.ipynb)   | Clean household level data                            |
+| [Clean Individual Data](./notebooks/2005/01_clean_individual_2005.ipynb) | Clean individual level data                           |
+| [Merge Data](./notebooks/2005/02_merge_household_individual_2005.ipynb)  | Merge household and individual level data             |
+| [EDA](./notebooks/2005/03_EDA.ipynb)                                     | Exploratory data analysis                             |
+| [Financial](./notebooks/2005/03_financial.ipynb)                        | Study the determinants of access to financial markets |
+
+
 
 ### [Tableau Dashboard](https://public.tableau.com/app/profile/mitchell.vaughn4481/viz/AccesstoFinancialMarkets_17064813522530/AccesstoFinancialMarketsinMexico)
 
