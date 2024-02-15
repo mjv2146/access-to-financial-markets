@@ -1,7 +1,6 @@
 # Access to Financial Markets
 ### Task
-This project studies a key question in emerging economies: how do households differ in their access to financial markets?
-I study this using household data from Mexico.
+This project studies a key question in emerging economies: how do households differ in their access to financial markets? I study this using household data from Mexico.
 
 ### Data
 Household data from [Mexican Family Life Survey](http://www.ennvih-mxfls.org/english/)
@@ -15,11 +14,12 @@ Household data from [Mexican Family Life Survey](http://www.ennvih-mxfls.org/eng
 
 | Notebook                                                                 | Description                                           |
 | ------------------------------------------------------------------------ | ----------------------------------------------------- |
-| [Clean Household Data](./notebooks/2005/01_clean_household_2005.ipynb)   | Clean household level data                            |
-| [Clean Individual Data](./notebooks/2005/01_clean_individual_2005.ipynb) | Clean individual level data                           |
-| [Merge Data](./notebooks/2005/02_merge_household_individual_2005.ipynb)  | Merge household and individual level data             |
-| [EDA](./notebooks/2005/03_EDA.ipynb)                                     | Exploratory data analysis                             |
-| [Financial](./notebooks/2005/03_financial.ipynb)                        | Study the determinants of access to financial markets |
+| [Clean Household Data](./notebooks/2005/01_clean_household_2005.ipynb)   | Clean household level data.                            |
+| [Clean Individual Data](./notebooks/2005/01_clean_individual_2005.ipynb) | Clean individual level data.                           |
+| [Merge Data](./notebooks/2005/02_merge_household_individual_2005.ipynb)  | Merge household and individual level data.             |
+| [EDA](./notebooks/2005/03_EDA.ipynb)                                     | Exploratory data analysis.                             |
+| [Financial](./notebooks/2005/03_financial.ipynb)                        | Study the determinants of access to financial markets. |
+| [Machine Learning](./notebooks/2005/03_machine_learning.ipynb)                        | Study the determinants of access to financial markets using more sophisticated machine learning methods (random forest, XGBoost, ridge). |
 
 
 
